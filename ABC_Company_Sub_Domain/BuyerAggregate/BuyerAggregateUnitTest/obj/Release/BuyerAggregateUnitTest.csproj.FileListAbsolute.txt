@@ -1,0 +1,13 @@
+C:\Users\Admin-PC\Source\Repos\ABC_Company_Domain\ABC_Company_Sub_Domain\BuyerAggregate\BuyerAggregateUnitTest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Admin-PC\Source\Repos\ABC_Company_Domain\ABC_Company_Sub_Domain\BuyerAggregate\BuyerAggregateUnitTest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Admin-PC\Source\Repos\ABC_Company_Domain\ABC_Company_Sub_Domain\BuyerAggregate\BuyerAggregateUnitTest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Admin-PC\Source\Repos\ABC_Company_Domain\ABC_Company_Sub_Domain\BuyerAggregate\BuyerAggregateUnitTest\bin\Release\BuyerAggregateUnitTest.dll
+C:\Users\Admin-PC\Source\Repos\ABC_Company_Domain\ABC_Company_Sub_Domain\BuyerAggregate\BuyerAggregateUnitTest\bin\Release\BuyerAggregateUnitTest.pdb
+C:\Users\Admin-PC\Source\Repos\ABC_Company_Domain\ABC_Company_Sub_Domain\BuyerAggregate\BuyerAggregateUnitTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Admin-PC\Source\Repos\ABC_Company_Domain\ABC_Company_Sub_Domain\BuyerAggregate\BuyerAggregateUnitTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Admin-PC\Source\Repos\ABC_Company_Domain\ABC_Company_Sub_Domain\BuyerAggregate\BuyerAggregateUnitTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Admin-PC\Source\Repos\ABC_Company_Domain\ABC_Company_Sub_Domain\BuyerAggregate\BuyerAggregateUnitTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Admin-PC\Source\Repos\ABC_Company_Domain\ABC_Company_Sub_Domain\BuyerAggregate\BuyerAggregateUnitTest\obj\Release\BuyerAggregateUnitTest.csprojAssemblyReference.cache
+C:\Users\Admin-PC\Source\Repos\ABC_Company_Domain\ABC_Company_Sub_Domain\BuyerAggregate\BuyerAggregateUnitTest\obj\Release\BuyerAggregateUnitTest.csproj.CopyComplete
+C:\Users\Admin-PC\Source\Repos\ABC_Company_Domain\ABC_Company_Sub_Domain\BuyerAggregate\BuyerAggregateUnitTest\obj\Release\BuyerAggregateUnitTest.dll
+C:\Users\Admin-PC\Source\Repos\ABC_Company_Domain\ABC_Company_Sub_Domain\BuyerAggregate\BuyerAggregateUnitTest\obj\Release\BuyerAggregateUnitTest.pdb

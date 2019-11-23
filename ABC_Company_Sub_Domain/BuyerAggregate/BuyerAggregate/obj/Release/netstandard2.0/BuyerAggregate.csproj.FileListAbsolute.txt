@@ -1,0 +1,8 @@
+C:\Users\Admin-PC\Source\Repos\ABC_Company_Domain\ABC_Company_Sub_Domain\BuyerAggregate\BuyerAggregate\bin\Release\netstandard2.0\BuyerAggregate.deps.json
+C:\Users\Admin-PC\Source\Repos\ABC_Company_Domain\ABC_Company_Sub_Domain\BuyerAggregate\BuyerAggregate\bin\Release\netstandard2.0\BuyerAggregate.dll
+C:\Users\Admin-PC\Source\Repos\ABC_Company_Domain\ABC_Company_Sub_Domain\BuyerAggregate\BuyerAggregate\bin\Release\netstandard2.0\BuyerAggregate.pdb
+C:\Users\Admin-PC\Source\Repos\ABC_Company_Domain\ABC_Company_Sub_Domain\BuyerAggregate\BuyerAggregate\bin\Release\netstandard2.0\BuyerAggregate.xml
+C:\Users\Admin-PC\Source\Repos\ABC_Company_Domain\ABC_Company_Sub_Domain\BuyerAggregate\BuyerAggregate\obj\Release\netstandard2.0\BuyerAggregate.AssemblyInfoInputs.cache
+C:\Users\Admin-PC\Source\Repos\ABC_Company_Domain\ABC_Company_Sub_Domain\BuyerAggregate\BuyerAggregate\obj\Release\netstandard2.0\BuyerAggregate.AssemblyInfo.cs
+C:\Users\Admin-PC\Source\Repos\ABC_Company_Domain\ABC_Company_Sub_Domain\BuyerAggregate\BuyerAggregate\obj\Release\netstandard2.0\BuyerAggregate.dll
+C:\Users\Admin-PC\Source\Repos\ABC_Company_Domain\ABC_Company_Sub_Domain\BuyerAggregate\BuyerAggregate\obj\Release\netstandard2.0\BuyerAggregate.pdb

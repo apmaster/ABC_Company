@@ -1,0 +1,8 @@
+C:\Users\Admin-PC\Source\Repos\ABC_Company_Domain\ABC_Company_Sub_Domain\Seedwork\Seedwork\bin\Debug\netstandard2.0\Seedwork.deps.json
+C:\Users\Admin-PC\Source\Repos\ABC_Company_Domain\ABC_Company_Sub_Domain\Seedwork\Seedwork\bin\Debug\netstandard2.0\Seedwork.dll
+C:\Users\Admin-PC\Source\Repos\ABC_Company_Domain\ABC_Company_Sub_Domain\Seedwork\Seedwork\obj\Debug\netstandard2.0\Seedwork.csprojAssemblyReference.cache
+C:\Users\Admin-PC\Source\Repos\ABC_Company_Domain\ABC_Company_Sub_Domain\Seedwork\Seedwork\obj\Debug\netstandard2.0\Seedwork.AssemblyInfoInputs.cache
+C:\Users\Admin-PC\Source\Repos\ABC_Company_Domain\ABC_Company_Sub_Domain\Seedwork\Seedwork\obj\Debug\netstandard2.0\Seedwork.AssemblyInfo.cs
+C:\Users\Admin-PC\Source\Repos\ABC_Company_Domain\ABC_Company_Sub_Domain\Seedwork\Seedwork\bin\Debug\netstandard2.0\Seedwork.pdb
+C:\Users\Admin-PC\Source\Repos\ABC_Company_Domain\ABC_Company_Sub_Domain\Seedwork\Seedwork\obj\Debug\netstandard2.0\Seedwork.dll
+C:\Users\Admin-PC\Source\Repos\ABC_Company_Domain\ABC_Company_Sub_Domain\Seedwork\Seedwork\obj\Debug\netstandard2.0\Seedwork.pdb

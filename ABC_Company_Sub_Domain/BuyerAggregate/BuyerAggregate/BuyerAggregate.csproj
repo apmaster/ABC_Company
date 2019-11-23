@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Buyer Aggregates contain features for Entities Value Objects and Enumerated Classes</Description>
+    <Version>1.0.1</Version>
+    <AssemblyVersion>1.0.1.1</AssemblyVersion>
+    <FileVersion>1.0.1.1</FileVersion>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DocumentationFile>C:\Users\Admin-PC\Source\Repos\ABC_Company_Domain\ABC_Company_Sub_Domain\BuyerAggregate\BuyerAggregate\BuyerAggregate.xml</DocumentationFile>
+  </PropertyGroup>
+
+</Project>

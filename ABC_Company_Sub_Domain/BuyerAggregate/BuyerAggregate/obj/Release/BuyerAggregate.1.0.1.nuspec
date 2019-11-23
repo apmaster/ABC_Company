@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>BuyerAggregate</id>
+    <version>1.0.1</version>
+    <authors>BuyerAggregate</authors>
+    <owners>BuyerAggregate</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Buyer Aggregates contain features for Entities Value Objects and Enumerated Classes</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Admin-PC\Source\Repos\ABC_Company_Domain\ABC_Company_Sub_Domain\BuyerAggregate\BuyerAggregate\bin\Release\netstandard2.0\BuyerAggregate.dll" target="lib\netstandard2.0\BuyerAggregate.dll" />
+    <file src="C:\Users\Admin-PC\Source\Repos\ABC_Company_Domain\ABC_Company_Sub_Domain\BuyerAggregate\BuyerAggregate\bin\Release\netstandard2.0\BuyerAggregate.xml" target="lib\netstandard2.0\BuyerAggregate.xml" />
+  </files>
+</package>

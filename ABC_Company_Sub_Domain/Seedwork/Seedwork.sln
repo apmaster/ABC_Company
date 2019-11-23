@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seedwork", "Seedwork\Seedwork.csproj", "{E5CEE79D-E086-4E3A-B31C-35DCF8F21BFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeedworkUnitTests", "SeedworkUnitTests\SeedworkUnitTests.csproj", "{B9D30A4D-A394-4240-AD2D-759807DB13DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5CEE79D-E086-4E3A-B31C-35DCF8F21BFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5CEE79D-E086-4E3A-B31C-35DCF8F21BFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5CEE79D-E086-4E3A-B31C-35DCF8F21BFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5CEE79D-E086-4E3A-B31C-35DCF8F21BFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9D30A4D-A394-4240-AD2D-759807DB13DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9D30A4D-A394-4240-AD2D-759807DB13DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9D30A4D-A394-4240-AD2D-759807DB13DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9D30A4D-A394-4240-AD2D-759807DB13DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB63BE4F-1793-48F1-888A-A03BBAD8F70D}
+	EndGlobalSection
+EndGlobal
